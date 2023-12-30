@@ -1,4 +1,4 @@
-#Programmed by Krish Patel and Kris Whitely
+#Programmed by Krish Patel
 #PROGRAMMING TEAM TASK #3
   #Number Guessing game
 #Python Modules
