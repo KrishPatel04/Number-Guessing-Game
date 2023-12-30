@@ -1,6 +1,5 @@
-#Programmed by Krish Patel
-#PROGRAMMING TEAM TASK #3
-  #Number Guessing game
+
+#Number Guessing game
 #Python Modules
 from random import randint
 from colorama import Fore, Back, Style
