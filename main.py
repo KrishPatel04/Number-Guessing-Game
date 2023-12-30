@@ -6,7 +6,7 @@ from colorama import Fore, Back, Style
 from time import sleep
 import sys
 
-#w3 schools text feature
+#Text effect
 def char_delay(text, delay):
   for letter in text:
     print(letter, end="")
